@@ -2,8 +2,7 @@
 
 Steps to run this project:
 
-1. Run `node server.js` command
-2. graphiql : http://localhost:port/graphql
+1. Run `node server/index.js` command
 
 
 # 클라이언트와 서버 폴더로 분리
