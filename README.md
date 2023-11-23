@@ -11,11 +11,11 @@ Steps to run this project:
 
     서버와 클라이언트 handshake 하기
 
-    클라이언트 js에 const ws = new WebSocket('ws://localhost:7071/ws');
+        클라이언트 js에 const ws = new WebSocket('ws://localhost:7071/ws');
 
-    서버 js에 
-    1.const WebSocket = require('ws');
-    2.const wss = new WebSocket.Server({port:7071});
+        서버 js에 
+            1.const WebSocket = require('ws');
+            2.const wss = new WebSocket.Server({port:7071});
 
 
 
